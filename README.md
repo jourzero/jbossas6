@@ -11,9 +11,10 @@ Testing deserialization attacks with old JBoss AS server
     -   [CPU Test](#cpu-test)
     -   [Ping RCE Test with ysoserial](#ping-rce-test-with-ysoserial)
 -   [Reverse Shell](#reverse-shell)
-    -   [Download](#download)
+    -   [Download Netcat](#download-netcat)
     -   [Change Permissions](#change-permissions)
-    -   [Simple Reverse Shell](#simple-reverse-shell)
+    -   [Setup Simple Reverse Shell](#setup-simple-reverse-shell)
+    -   [Shell Test](#shell-test)
 -   [Ref](#ref)
     -   [Ysoserial Payloads](#ysoserial-payloads)
     -   [Prepare test payloads](#prepare-test-payloads)
@@ -50,9 +51,13 @@ Works with CommonCollection5 and CommonCollection6.
 
 ![Change permissions](screenshots/chmod.png)
 
-## Simple Reverse Shell
+## Setup Simple Reverse Shell
 
 ![ncat](screenshots/ncat.png)
+
+## Shell Test
+
+![ncat](screenshots/shell.png)
 
 # Ref
 
