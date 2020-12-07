@@ -17,3 +17,7 @@ jboss/server/minimal/work/**/*
 # deployed package files #
 
 *.DEPLOYED
+ysoserial.jar
+yso.CC3.ping.bin
+jboss-as-distribution-6.0.0.Final.zip
+jboss-as-distribution-6.1.0.Final.zip
